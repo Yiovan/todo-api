@@ -1,0 +1,14 @@
+herramientas utilizadas
+-xampp
+-visual studio code
+
+
+
+para el lado Frontend
+-Javascript
+-HTML
+-CSS
+
+para el lado backend
+-Php
+-Postgresql

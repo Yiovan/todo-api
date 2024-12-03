@@ -1,0 +1,11 @@
+# Evitar archivos sensibles
+todo-api/db.php
+
+# Evitar datos locales o temporales
+*.log
+*.bak
+*.tmp
+.env
+
+# Evitar configuraciones del entorno local
+htdocs/
